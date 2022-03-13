@@ -1,0 +1,22 @@
+{
+  "stories": [
+    {
+      "id": 1,
+      "name":"gamebroy",
+      "image" : "https://revistatudo.com.br/wp-content/uploads/2020/08/Cr%C3%A9dito-da-foto-Gustavo-Arrais_Marina_Person_02-12-2015_3887.jpg"
+    },
+    {
+      "id": 2,
+      "name":"imateus.silva",
+      "image":"https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1444077018/wired_data-attack-are-you-the-most-average-person-in-america.jpg"
+    },
+    {
+      "id": 3,
+      "name":"devpleno",
+      "image":"https://www.urologicomogi.com.br/wp-content/uploads/2019/02/person1.jpg"
+    }
+  ],
+  "feed": [
+    
+  ]
+}
