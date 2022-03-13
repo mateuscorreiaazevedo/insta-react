@@ -1,0 +1,12 @@
+# node modules
+node_modules
+
+# dist
+dist
+
+# yarn error
+yarn-error.log
+
+shared
+
+.env
